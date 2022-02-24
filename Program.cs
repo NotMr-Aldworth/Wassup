@@ -70,7 +70,7 @@ namespace Test
             Console.WriteLine("| / ");
             
             Console.WriteLine("|/ ");
-            
+            Console.WriteLine("HAHAHAHAHAHAHAHHAHAHAHAHAHHAHAHAHAHAHAHAHAHAHAH");
             Console.ReadLine();
         }
     }
